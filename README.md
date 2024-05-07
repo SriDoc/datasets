@@ -12,4 +12,4 @@ The SinOCR dataset is a collection of printed and handwritten Sinhala text image
 
 ## Access to the Datasets
 
-To access the SinFUND and SinOCR datasets, please send an email request to [email-address]. We will then provide you with a link to download the data.
+To access the SinFUND and SinOCR datasets, please send an email request to gihantha.19@cse.mrt.ac.lk. We will then provide you with a link to download the data.
