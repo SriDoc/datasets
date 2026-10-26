@@ -19,3 +19,19 @@ The **SinOCR** dataset is a collection of printed and handwritten Sinhala text i
 
 You may access the SinFUND and SinOCR datasets through the following link.
 [Access SinFUND and SinOCR Datasets](https://drive.google.com/drive/folders/1Czf8dQkEzWXBBcmVbBNa2OaMwdBBvBsx?usp=sharing)
+
+## Licence
+
+The SinFUND and SinOCR datasets are released under the Creative Commons Attribution 4.0 International licence (CC BY 4.0); see [LICENSE](LICENSE). You may share and adapt the data for any purpose, provided that you cite the paper above. All personal details written on the SinFUND forms are fictitious.
+
+## Fixed splits
+
+- **SinFUND:** `training_data` (`sin_train_0` to `sin_train_79`, 80 forms) and `testing_data` (`sin_val_0` to `sin_val_19`, 20 forms). Following the XFUND naming convention, the test files carry the suffix `val`; there is no separate validation split.
+- **SinOCR handwritten:** `train/data.csv` (908 lines) and `test/data.csv` (227 lines).
+- **SinOCR printed:** `train/gt.csv` (90,000 lines) and `test/gt.csv` (10,000 lines).
+
+## Source of the handwritten SinOCR lines
+
+[`sinocr_handwritten_provenance.csv`](sinocr_handwritten_provenance.csv) states, for every handwritten SinOCR image, whether it was cropped from a SinFUND form (and from which form and answer box) or collected through the web application.
+
+132 SinOCR training lines are crops from SinFUND **test** forms. If you evaluate an OCR model trained on SinOCR on the SinFUND test split (for example, in an end-to-end OCR, entity-recognition and relation-extraction pipeline), first remove the rows with `sinocr_split = train` and `origin = sinfund_test` from the OCR training data.

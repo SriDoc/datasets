@@ -1,0 +1,1136 @@
+sinocr_split,image,origin,sinfund_form,sinfund_answer_box,pixel_correlation,match
+test,image_15.png,sinfund_test,sin_val_12,376 1352 484 1396,0.894,automatic
+test,image_18.png,sinfund_test,sin_val_12,381 1466 551 1505,0.893,automatic
+test,image_41.png,sinfund_test,sin_val_14,1283 1573 1430 1610,0.929,automatic
+test,image_43.png,sinfund_test,sin_val_14,843 368 1866 448,0.966,automatic
+test,image_44.png,sinfund_test,sin_val_14,340 445 745 496,0.906,automatic
+test,image_47.png,sinfund_test,sin_val_14,373 725 1340 801,0.975,automatic
+test,image_55.png,sinfund_train,sin_train_2,456 305 582 352,0.966,automatic
+test,image_57.png,sinfund_train,sin_train_2,1038 240 1195 319,0.978,automatic
+test,image_61.png,sinfund_train,sin_train_2,477 474 714 558,0.988,automatic
+test,image_69.png,sinfund_train,sin_train_15,559 1864 623 1891,0.892,automatic
+test,image_72.png,sinfund_train,sin_train_15,918 1665 1056 1692,0.971,automatic
+test,image_84.png,sinfund_train,sin_train_14,1060 1121 1766 1194,0.983,automatic
+test,image_91.png,sinfund_train,sin_train_14,1146 1915 1629 2020,0.973,automatic
+test,image_92.png,sinfund_train,sin_train_21,676 698 854 748,0.924,automatic
+test,image_93.png,sinfund_train,sin_train_21,391 1244 519 1277,0.924,automatic
+test,image_102.png,sinfund_train,sin_train_47,481 1589 610 1627,0.921,automatic
+test,image_105.png,sinfund_train,sin_train_47,757 493 818 524,0.884,automatic
+test,image_106.png,sinfund_train,sin_train_47,928 405 1030 440,0.954,automatic
+test,image_107.png,sinfund_train,sin_train_47,928 449 1030 480,0.937,automatic
+test,image_110.png,sinfund_train,sin_train_47,1331 443 1426 473,0.947,automatic
+test,image_111.png,sinfund_train,sin_train_47,1330 488 1457 517,0.934,automatic
+test,image_119.png,web_app,,,0.142,
+test,image_120.png,web_app,,,0.164,
+test,image_124.png,sinfund_train,sin_train_62,864 368 1448 423,0.980,automatic
+test,image_138.png,sinfund_test,sin_val_0,424 379 1180 446,0.752,automatic
+test,image_145.png,sinfund_test,sin_val_0,339 1241 595 1281,0.917,automatic
+test,image_147.png,sinfund_train,sin_train_38,833 625 1005 682,0.918,automatic
+test,image_148.png,sinfund_train,sin_train_38,533 1061 639 1108,0.937,automatic
+test,image_149.png,sinfund_train,sin_train_38,740 1205 918 1244,0.823,automatic
+test,image_163.png,sinfund_train,sin_train_37,802 2487 1100 2570,0.840,automatic
+test,image_165.png,sinfund_train,sin_train_11,856 768 1228 829,0.963,automatic
+test,image_174.png,sinfund_train,sin_train_61,80 206 632 298,0.889,automatic
+test,image_183.png,web_app,,,,
+test,image_197.png,sinfund_train,sin_train_8,74 1293 306 1338,0.936,automatic
+test,image_202.png,sinfund_train,sin_train_8,71 2622 1268 2705,0.969,automatic
+test,image_203.png,sinfund_train,sin_train_40,298 394 452 433,0.953,automatic
+test,image_211.png,sinfund_train,sin_train_40,299 1620 658 1667,0.906,automatic
+test,image_212.png,sinfund_train,sin_train_40,445 2085 1084 2166,0.981,automatic
+test,image_213.png,sinfund_train,sin_train_40,1083 2826 1291 2874,0.932,automatic
+test,image_220.png,sinfund_train,sin_train_40,59 2412 670 2486,0.944,automatic
+test,image_222.png,sinfund_train,sin_train_16,512 1631 760 1743,0.982,automatic
+test,image_232.png,sinfund_train,sin_train_16,1393 2424 1650 2479,0.898,automatic
+test,image_244.png,sinfund_train,sin_train_53,516 2521 990 2587,0.941,automatic
+test,image_245.png,sinfund_train,sin_train_7,1203 1123 1371 1191,0.958,automatic
+test,image_248.png,sinfund_train,sin_train_7,498 1509 898 1621,0.987,automatic
+test,image_260.png,sinfund_train,sin_train_51,1059 1978 1311 2059,0.917,automatic
+test,image_265.png,sinfund_train,sin_train_51,999 1483 1474 1543,0.899,automatic
+test,image_271.png,sinfund_test,sin_val_10,1156 676 1574 745,0.931,automatic
+test,image_274.png,sinfund_train,sin_train_65,612 740 1159 839,0.945,automatic
+test,image_275.png,web_app,,,,
+test,image_276.png,sinfund_train,sin_train_65,1163 1343 1593 1427,0.966,automatic
+test,image_289.png,sinfund_train,sin_train_74,879 1670 1148 1797,0.976,automatic
+test,image_290.png,sinfund_train,sin_train_74,445 1873 924 1938,0.911,automatic
+test,image_291.png,web_app,,,0.044,
+test,image_292.png,sinfund_train,sin_train_74,509 2538 873 2602,0.945,automatic
+test,image_294.png,sinfund_train,sin_train_67,545 942 819 1023,0.891,automatic
+test,image_296.png,sinfund_train,sin_train_67,435 2836 769 2944,0.940,automatic
+test,image_298.png,sinfund_train,sin_train_67,338 1206 1006 1297,0.919,automatic
+test,image_299.png,sinfund_train,sin_train_67,645 1512 942 1638,0.962,automatic
+test,image_304.png,sinfund_test,sin_val_7,1164 1977 2408 2100,0.956,automatic
+test,image_307.png,sinfund_train,sin_train_77,891 1723 1124 1785,0.961,automatic
+test,image_315.png,sinfund_train,sin_train_77,1016 2480 1522 2577,0.962,automatic
+test,image_316.png,sinfund_train,sin_train_60,743 787 2082 883,0.973,automatic
+test,image_320.png,sinfund_train,sin_train_34,732 1197 1542 1297,0.959,automatic
+test,image_325.png,sinfund_train,sin_train_34,725 2662 1448 2743,0.892,automatic
+test,image_329.png,sinfund_train,sin_train_6,1153 1470 1218 1527,0.919,automatic
+test,image_330.png,sinfund_train,sin_train_6,1508 1961 1617 1989,0.910,automatic
+test,image_331.png,sinfund_train,sin_train_6,756 956 1793 1056,0.955,automatic
+test,image_340.png,sinfund_train,sin_train_30,1299 1197 1437 1300,0.926,automatic
+test,image_344.png,sinfund_train,sin_train_30,1241 2775 1700 2887,0.969,automatic
+test,image_349.png,sinfund_train,sin_train_45,431 1621 616 1669,0.945,automatic
+test,image_350.png,sinfund_train,sin_train_45,448 1919 709 1966,0.952,automatic
+test,image_353.png,sinfund_train,sin_train_45,813 563 1792 683,0.945,automatic
+test,image_358.png,sinfund_train,sin_train_45,505 2204 1027 2255,0.953,automatic
+test,image_360.png,sinfund_train,sin_train_5,594 1098 859 1188,0.877,automatic
+test,image_361.png,sinfund_train,sin_train_5,676 1304 771 1360,0.946,automatic
+test,image_362.png,web_app,,,0.199,
+test,image_366.png,sinfund_train,sin_train_5,911 1816 2438 1931,0.954,automatic
+test,image_370.png,sinfund_train,sin_train_69,554 1103 696 1141,0.976,automatic
+test,image_381.png,web_app,,,0.129,
+test,image_383.png,sinfund_train,sin_train_69,1043 1905 1174 1960,0.888,automatic
+test,image_389.png,sinfund_test,sin_val_1,1097 1395 1433 1511,0.937,automatic
+test,image_394.png,sinfund_train,sin_train_23,409 1251 538 1307,0.854,automatic
+test,image_398.png,sinfund_train,sin_train_23,379 792 595 823,0.911,automatic
+test,image_408.png,sinfund_train,sin_train_4,357 637 563 688,0.964,automatic
+test,image_411.png,sinfund_train,sin_train_4,391 1031 567 1073,0.911,automatic
+test,image_432.png,sinfund_train,sin_train_79,526 1676 734 1712,0.908,automatic
+test,image_435.png,sinfund_train,sin_train_79,892 552 1356 632,0.973,automatic
+test,image_437.png,sinfund_train,sin_train_18,258 1440 476 1509,0.974,automatic
+test,image_438.png,sinfund_train,sin_train_18,760 1452 959 1490,0.949,automatic
+test,image_440.png,sinfund_train,sin_train_18,670 559 1397 651,0.993,automatic
+test,image_447.png,sinfund_train,sin_train_63,634 837 730 875,0.868,automatic
+test,image_451.png,sinfund_train,sin_train_26,1035 797 1206 841,0.949,automatic
+test,image_452.png,sinfund_train,sin_train_26,490 606 1065 640,0.969,automatic
+test,image_453.png,sinfund_train,sin_train_26,671 723 1071 763,0.968,automatic
+test,image_455.png,sinfund_train,sin_train_26,527 951 674 991,0.947,automatic
+test,image_460.png,web_app,,,0.298,
+test,image_464.png,sinfund_train,sin_train_41,441 860 530 894,0.807,automatic
+test,image_482.png,web_app,,,,
+test,image_484.png,sinfund_train,sin_train_39,286 1723 996 1798,0.980,automatic
+test,image_485.png,sinfund_train,sin_train_35,216 845 294 869,0.847,automatic
+test,image_493.png,sinfund_train,sin_train_43,579 1380 962 1423,0.942,automatic
+test,image_499.png,web_app,,,,
+test,image_506.png,web_app,,,0.230,
+test,image_510.png,sinfund_train,sin_train_55,723 1115 1040 1188,0.949,automatic
+test,image_522.png,sinfund_train,sin_train_66,933 1927 1426 2022,0.961,automatic
+test,image_525.png,sinfund_train,sin_train_66,1204 1378 1695 1469,0.981,automatic
+test,image_526.png,sinfund_train,sin_train_66,777 1299 1195 1384,0.918,automatic
+test,image_528.png,web_app,,,,
+test,image_530.png,sinfund_train,sin_train_28,747 1516 1051 1584,0.976,automatic
+test,image_531.png,sinfund_train,sin_train_28,1437 1875 1673 1937,0.967,automatic
+test,image_534.png,sinfund_train,sin_train_28,603 1204 935 1286,0.981,automatic
+test,image_536.png,sinfund_train,sin_train_28,548 2266 835 2342,0.975,automatic
+test,image_542.png,sinfund_test,sin_val_18,617 550 1315 659,0.955,automatic
+test,image_544.png,sinfund_train,sin_train_75,405 2214 613 2274,0.877,automatic
+test,image_551.png,sinfund_train,sin_train_33,616 1292 820 1375,0.842,automatic
+test,image_552.png,sinfund_train,sin_train_33,918 1519 1141 1614,0.923,automatic
+test,image_553.png,sinfund_train,sin_train_33,836 1601 1111 1664,0.951,automatic
+test,image_558.png,sinfund_train,sin_train_33,630 1336 1212 1435,0.824,automatic
+test,image_560.png,sinfund_train,sin_train_33,619 1455 913 1550,0.961,automatic
+test,image_584.png,sinfund_train,sin_train_58,312 2233 462 2300,0.852,automatic
+test,image_587.png,sinfund_train,sin_train_58,699 1714 921 1783,0.958,automatic
+test,image_592.png,sinfund_train,sin_train_70,626 1064 880 1115,0.935,automatic
+test,image_594.png,sinfund_train,sin_train_49,1669 1409 1921 1501,0.948,automatic
+test,image_596.png,sinfund_train,sin_train_49,1484 2003 1773 2084,0.957,automatic
+test,image_612.png,sinfund_train,sin_train_76,1145 1651 1270 1723,0.913,automatic
+test,image_614.png,sinfund_train,sin_train_76,885 1022 1385 1116,0.943,automatic
+test,image_626.png,sinfund_test,sin_val_3,933 2259 1275 2350,0.965,automatic
+test,image_628.png,sinfund_train,sin_train_13,308 1678 530 1736,0.977,automatic
+test,image_632.png,sinfund_train,sin_train_13,303 1980 589 2067,0.962,automatic
+test,image_648.png,sinfund_test,sin_val_6,744 1337 1072 1410,0.979,automatic
+test,image_655.png,sinfund_test,sin_val_6,543 613 1247 720,0.994,automatic
+test,image_667.png,sinfund_test,sin_val_17,443 758 938 834,0.970,automatic
+test,image_672.png,web_app,,,0.072,
+test,image_676.png,sinfund_train,sin_train_36,760 505 963 579,0.963,automatic
+test,image_679.png,sinfund_train,sin_train_36,740 770 918 840,0.961,automatic
+test,image_685.png,sinfund_train,sin_train_50,1086 791 2075 896,0.976,automatic
+test,image_688.png,sinfund_train,sin_train_50,1081 1722 1698 1804,0.965,automatic
+test,image_704.png,web_app,,,,
+test,image_712.png,sinfund_test,sin_val_11,1905 1316 2210 1466,0.964,automatic
+test,image_724.png,web_app,,,,
+test,image_729.png,web_app,,,,
+test,image_734.png,sinfund_train,sin_train_68,778 1872 1064 1943,0.960,automatic
+test,image_736.png,sinfund_train,sin_train_68,929 2358 1079 2423,0.956,automatic
+test,image_737.png,sinfund_train,sin_train_68,1687 2668 1792 2754,0.954,automatic
+test,image_742.png,sinfund_train,sin_train_27,780 1710 917 1782,0.927,automatic
+test,image_748.png,sinfund_train,sin_train_27,566 1578 894 1655,0.937,automatic
+test,image_753.png,sinfund_train,sin_train_10,1388 421 1602 468,0.906,automatic
+test,image_755.png,sinfund_train,sin_train_10,714 421 873 480,0.897,automatic
+test,image_759.png,sinfund_train,sin_train_10,626 2272 870 2366,0.918,automatic
+test,image_761.png,sinfund_train,sin_train_10,548 2201 1309 2302,0.972,automatic
+test,image_766.png,sinfund_train,sin_train_31,1028 1028 1592 1089,0.975,automatic
+test,image_777.png,web_app,,,,
+test,image_779.png,web_app,,,,
+test,image_781.png,sinfund_train,sin_train_19,981 1020 1683 1141,0.912,automatic
+test,image_789.png,sinfund_test,sin_val_9,525 1052 881 1163,0.879,automatic
+test,image_792.png,sinfund_test,sin_val_9,653 2306 953 2416,0.959,automatic
+test,image_797.png,sinfund_train,sin_train_0,1261 1379 1447 1456,0.958,automatic
+test,image_815.png,sinfund_test,sin_val_19,983 836 1227 905,0.945,automatic
+test,image_819.png,sinfund_test,sin_val_19,529 1704 791 1753,0.977,automatic
+test,image_842.png,sinfund_test,sin_val_8,906 2310 1031 2342,0.899,automatic
+test,image_846.png,sinfund_train,sin_train_59,452 363 1274 450,0.929,automatic
+test,image_869.png,web_app,,,,
+test,image_871.png,sinfund_train,sin_train_12,435 1161 1475 1248,0.948,automatic
+test,image_872.png,sinfund_train,sin_train_12,1336 1268 1562 1332,0.971,automatic
+test,image_873.png,web_app,,,,
+test,image_885.png,sinfund_test,sin_val_16,796 1986 1015 2053,0.962,automatic
+test,image_886.png,sinfund_test,sin_val_16,791 2051 1005 2103,0.950,automatic
+test,image_889.png,web_app,,,0.138,
+test,image_903.png,sinfund_train,sin_train_57,1250 606 1430 665,0.870,automatic
+test,image_916.png,sinfund_train,sin_train_57,388 1703 695 1774,0.738,automatic
+test,image_922.png,web_app,,,0.234,
+test,image_931.png,sinfund_train,sin_train_56,1274 1103 1446 1156,0.893,automatic
+test,image_938.png,sinfund_train,sin_train_56,532 2023 1007 2074,0.940,automatic
+test,image_941.png,sinfund_train,sin_train_56,952 1336 1417 1396,0.931,automatic
+test,image_942.png,sinfund_train,sin_train_56,840 630 1315 684,0.936,automatic
+test,image_950.png,sinfund_test,sin_val_2,824 1486 1401 1528,0.972,automatic
+test,image_955.png,sinfund_test,sin_val_2,526 1897 1004 1994,0.984,automatic
+test,image_957.png,sinfund_test,sin_val_2,667 2061 1081 2143,0.978,automatic
+test,image_964.png,sinfund_train,sin_train_42,801 862 1312 921,0.983,automatic
+test,image_992.png,sinfund_train,sin_train_20,1153 2235 1302 2289,0.894,automatic
+test,image_1000.png,sinfund_train,sin_train_20,1279 727 1449 761,0.900,automatic
+test,image_1008.png,sinfund_train,sin_train_20,1298 1892 1502 1938,0.932,automatic
+test,image_1026.png,sinfund_train,sin_train_72,471 1147 1528 1242,0.783,automatic
+test,image_1027.png,sinfund_train,sin_train_72,493 1209 1649 1297,0.784,automatic
+test,image_1034.png,sinfund_train,sin_train_78,721 802 1302 864,0.944,automatic
+test,image_1039.png,web_app,,,0.348,
+test,image_1043.png,web_app,,,,
+test,image_1045.png,web_app,,,,
+test,image_1048.png,web_app,,,,
+test,image_1051.png,web_app,,,,
+test,image_1052.png,web_app,,,,
+test,image_1056.png,web_app,,,,
+test,image_1059.png,web_app,,,,
+test,image_1062.png,web_app,,,0.315,
+test,image_1068.png,web_app,,,,
+test,image_1074.png,web_app,,,,
+test,image_1077.png,web_app,,,0.134,
+test,image_1079.png,web_app,,,,
+test,image_1086.png,web_app,,,,
+test,image_1088.png,web_app,,,,
+test,image_1113.png,web_app,,,,
+test,image_1116.png,web_app,,,,
+test,image_1121.png,web_app,,,,
+test,image_1124.png,web_app,,,,
+test,image_1129.png,web_app,,,,
+test,image_1136.png,web_app,,,,
+test,image_1138.png,web_app,,,,
+test,image_1142.png,web_app,,,,
+test,image_1147.png,web_app,,,,
+test,image_1165.png,web_app,,,,
+test,image_1177.png,web_app,,,,
+test,image_1179.png,web_app,,,,
+test,image_1186.png,web_app,,,,
+test,image_1189.png,web_app,,,,
+test,image_1193.png,web_app,,,,
+test,image_1194.png,web_app,,,,
+test,image_1197.png,web_app,,,,
+test,image_1207.png,web_app,,,,
+test,image_1210.png,web_app,,,,
+test,image_1223.png,web_app,,,,
+test,image_1231.png,web_app,,,,
+test,image_1244.png,web_app,,,,
+test,image_1245.png,web_app,,,,
+test,image_1246.png,web_app,,,,
+test,image_1252.png,web_app,,,,
+test,image_1258.png,web_app,,,,
+train,image_0.png,sinfund_train,sin_train_29,693 1003 901 1074,0.943,automatic
+train,image_3.png,sinfund_train,sin_train_29,837 473 1831 554,0.960,automatic
+train,image_4.png,sinfund_train,sin_train_29,922 695 1803 764,0.967,automatic
+train,image_5.png,sinfund_train,sin_train_29,1321 984 1645 1066,0.964,automatic
+train,image_6.png,sinfund_train,sin_train_29,970 1230 1793 1311,0.975,automatic
+train,image_7.png,sinfund_train,sin_train_29,981 1312 1811 1389,0.978,automatic
+train,image_8.png,sinfund_train,sin_train_29,438 1904 847 1989,0.972,automatic
+train,image_9.png,sinfund_train,sin_train_29,434 1966 861 2015,0.944,automatic
+train,image_10.png,sinfund_train,sin_train_29,437 2014 882 2054,0.975,automatic
+train,image_11.png,sinfund_train,sin_train_29,1032 2239 1475 2311,0.967,automatic
+train,image_12.png,sinfund_train,sin_train_29,953 2318 1761 2401,0.968,automatic
+train,image_13.png,sinfund_test,sin_val_12,373 1246 498 1299,0.901,automatic
+train,image_14.png,sinfund_test,sin_val_12,367 1302 516 1339,0.882,automatic
+train,image_16.png,sinfund_test,sin_val_12,372 1574 555 1609,0.887,automatic
+train,image_17.png,sinfund_test,sin_val_12,381 1618 513 1665,0.923,automatic
+train,image_19.png,sinfund_test,sin_val_12,719 352 866 403,0.867,automatic
+train,image_20.png,sinfund_test,sin_val_12,712 858 856 903,0.898,automatic
+train,image_21.png,sinfund_test,sin_val_12,1058 1241 1287 1284,0.939,automatic
+train,image_22.png,sinfund_test,sin_val_12,723 420 1275 482,0.933,automatic
+train,image_23.png,sinfund_test,sin_val_12,728 484 1491 554,0.944,automatic
+train,image_26.png,sinfund_test,sin_val_12,1059 1285 1337 1363,0.962,automatic
+train,image_28.png,sinfund_test,sin_val_12,371 1511 682 1559,0.931,automatic
+train,image_30.png,sinfund_test,sin_val_12,614 1965 1586 2036,0.951,automatic
+train,image_31.png,sinfund_test,sin_val_12,597 1909 911 1958,0.874,automatic
+train,image_38.png,sinfund_test,sin_val_12,369 1192 621 1232,0.860,automatic
+train,image_39.png,sinfund_test,sin_val_14,242 1010 402 1057,0.915,automatic
+train,image_40.png,sinfund_test,sin_val_14,1343 940 1457 994,0.864,automatic
+train,image_42.png,sinfund_test,sin_val_14,870 245 1555 307,0.956,automatic
+train,image_45.png,sinfund_test,sin_val_14,216 510 592 563,0.915,automatic
+train,image_46.png,sinfund_test,sin_val_14,759 578 1766 647,0.967,automatic
+train,image_48.png,web_app,,,0.246,
+train,image_49.png,sinfund_test,sin_val_14,930 1223 1324 1274,0.950,automatic
+train,image_50.png,sinfund_test,sin_val_14,501 1886 877 1939,0.918,automatic
+train,image_51.png,sinfund_test,sin_val_14,526 2002 1171 2070,0.945,automatic
+train,image_52.png,sinfund_test,sin_val_14,516 2144 858 2207,0.943,automatic
+train,image_53.png,sinfund_test,sin_val_14,563 2257 1347 2323,0.958,automatic
+train,image_54.png,sinfund_train,sin_train_2,454 247 610 286,0.935,automatic
+train,image_56.png,sinfund_train,sin_train_2,1043 130 1240 179,0.950,automatic
+train,image_59.png,sinfund_train,sin_train_2,1148 172 1338 272,0.966,automatic
+train,image_60.png,sinfund_train,sin_train_2,485 418 739 491,0.971,automatic
+train,image_62.png,sinfund_train,sin_train_2,486 525 728 611,0.989,automatic
+train,image_63.png,web_app,,,0.226,
+train,image_64.png,web_app,,,0.180,
+train,image_65.png,sinfund_train,sin_train_2,1090 487 1344 537,0.974,automatic
+train,image_66.png,sinfund_train,sin_train_38,,0.320,manual (exact text and box size)
+train,image_67.png,sinfund_train,sin_train_15,479 1351 626 1397,0.966,automatic
+train,image_68.png,sinfund_train,sin_train_15,730 1384 850 1431,0.868,automatic
+train,image_70.png,sinfund_train,sin_train_15,330 1665 414 1694,0.968,automatic
+train,image_71.png,sinfund_train,sin_train_15,453 1894 566 1948,0.921,automatic
+train,image_73.png,sinfund_train,sin_train_15,1172 1848 1228 1902,0.919,automatic
+train,image_74.png,sinfund_train,sin_train_15,635 698 918 762,0.953,automatic
+train,image_75.png,sinfund_train,sin_train_15,563 1053 1006 1110,0.987,automatic
+train,image_76.png,sinfund_train,sin_train_15,1039 1122 1313 1187,0.983,automatic
+train,image_77.png,sinfund_train,sin_train_15,518 1628 749 1676,0.936,automatic
+train,image_78.png,web_app,,,0.248,
+train,image_79.png,sinfund_train,sin_train_15,1115 1609 1444 1677,0.959,automatic
+train,image_80.png,web_app,,,0.139,
+train,image_81.png,sinfund_train,sin_train_15,1049 1887 1173 1943,0.803,automatic
+train,image_82.png,sinfund_train,sin_train_14,703 578 1779 701,0.974,automatic
+train,image_83.png,web_app,,,,
+train,image_85.png,sinfund_train,sin_train_14,828 1215 1703 1284,0.969,automatic
+train,image_86.png,sinfund_train,sin_train_14,1312 1300 1949 1371,0.958,automatic
+train,image_87.png,sinfund_train,sin_train_14,769 1703 1089 1795,0.948,automatic
+train,image_88.png,sinfund_train,sin_train_14,716 1868 895 1906,0.967,automatic
+train,image_89.png,sinfund_train,sin_train_14,1016 2131 1212 2223,0.931,automatic
+train,image_90.png,sinfund_train,sin_train_14,1519 2435 1640 2523,0.930,automatic
+train,image_94.png,sinfund_train,sin_train_21,821 150 1171 211,0.953,automatic
+train,image_95.png,sinfund_train,sin_train_21,793 306 1340 364,0.975,automatic
+train,image_97.png,sinfund_train,sin_train_21,774 586 959 633,0.926,automatic
+train,image_98.png,sinfund_train,sin_train_21,337 907 992 951,0.969,automatic
+train,image_99.png,sinfund_train,sin_train_21,389 1197 564 1235,0.942,automatic
+train,image_100.png,sinfund_train,sin_train_47,534 490 660 530,0.965,automatic
+train,image_101.png,sinfund_train,sin_train_47,545 414 600 448,0.813,automatic
+train,image_103.png,sinfund_train,sin_train_47,740 416 809 443,0.917,automatic
+train,image_104.png,sinfund_train,sin_train_47,738 442 786 491,0.959,automatic
+train,image_108.png,sinfund_train,sin_train_47,935 482 1079 525,0.962,automatic
+train,image_109.png,sinfund_train,sin_train_47,1318 400 1412 436,0.933,automatic
+train,image_112.png,sinfund_train,sin_train_47,359 1499 807 1551,0.962,automatic
+train,image_113.png,web_app,,,0.152,
+train,image_114.png,sinfund_train,sin_train_47,321 1722 499 1761,0.924,automatic
+train,image_115.png,web_app,,,0.104,
+train,image_118.png,web_app,,,0.189,
+train,image_121.png,sinfund_train,sin_train_62,900 427 1058 477,0.928,automatic
+train,image_122.png,sinfund_train,sin_train_62,603 508 659 554,0.961,automatic
+train,image_123.png,sinfund_train,sin_train_62,691 673 824 714,0.906,automatic
+train,image_125.png,sinfund_train,sin_train_62,652 461 1005 509,0.956,automatic
+train,image_126.png,sinfund_train,sin_train_62,823 585 1087 634,0.975,automatic
+train,image_127.png,sinfund_train,sin_train_62,756 622 1156 675,0.984,automatic
+train,image_128.png,sinfund_train,sin_train_62,602 712 1135 758,0.981,automatic
+train,image_129.png,sinfund_train,sin_train_62,678 836 1009 890,0.977,automatic
+train,image_130.png,web_app,,,,
+train,image_131.png,sinfund_train,sin_train_62,549 1750 794 1795,0.962,automatic
+train,image_132.png,web_app,,,0.175,
+train,image_133.png,sinfund_train,sin_train_62,754 1479 1105 1538,0.982,automatic
+train,image_134.png,sinfund_train,sin_train_62,780 1536 1068 1575,0.883,automatic
+train,image_135.png,sinfund_test,sin_val_0,406 569 508 595,0.947,automatic
+train,image_136.png,sinfund_test,sin_val_0,382 437 545 485,0.813,automatic
+train,image_137.png,sinfund_test,sin_val_0,375 330 1307 419,0.794,automatic
+train,image_139.png,sinfund_test,sin_val_0,455 487 1268 567,0.977,automatic
+train,image_140.png,sinfund_test,sin_val_0,331 595 560 643,0.854,automatic
+train,image_141.png,sinfund_test,sin_val_0,397 731 693 825,0.953,automatic
+train,image_142.png,sinfund_test,sin_val_0,426 1368 664 1450,0.980,automatic
+train,image_143.png,sinfund_test,sin_val_0,399 1132 1129 1201,0.745,automatic
+train,image_144.png,sinfund_test,sin_val_0,389 1199 489 1235,0.819,automatic
+train,image_146.png,sinfund_train,sin_train_38,357 626 552 684,0.927,automatic
+train,image_150.png,sinfund_train,sin_train_38,642 1657 866 1700,0.909,automatic
+train,image_151.png,sinfund_train,sin_train_38,1171 614 1394 664,0.960,automatic
+train,image_152.png,sinfund_train,sin_train_38,506 807 991 867,0.980,automatic
+train,image_153.png,sinfund_train,sin_train_38,479 1505 881 1554,0.943,automatic
+train,image_154.png,sinfund_train,sin_train_38,660 1568 1153 1627,0.969,automatic
+train,image_155.png,sinfund_train,sin_train_38,747 1109 1405 1185,0.990,automatic
+train,image_156.png,sinfund_train,sin_train_37,640 533 813 608,0.936,automatic
+train,image_157.png,sinfund_train,sin_train_37,633 597 820 681,0.948,automatic
+train,image_158.png,sinfund_train,sin_train_37,634 669 845 752,0.948,automatic
+train,image_159.png,sinfund_train,sin_train_37,655 746 769 857,0.936,automatic
+train,image_160.png,web_app,,,,
+train,image_161.png,sinfund_train,sin_train_37,626 462 1313 540,0.950,automatic
+train,image_162.png,sinfund_train,sin_train_37,586 2300 930 2370,0.901,automatic
+train,image_164.png,sinfund_train,sin_train_37,682 2402 1040 2505,0.928,automatic
+train,image_166.png,sinfund_train,sin_train_11,542 1023 1339 1126,0.989,automatic
+train,image_167.png,sinfund_train,sin_train_11,660 1299 1379 1385,0.983,automatic
+train,image_168.png,sinfund_train,sin_train_11,885 2221 1324 2295,0.975,automatic
+train,image_169.png,sinfund_train,sin_train_11,756 2410 1391 2468,0.972,automatic
+train,image_170.png,sinfund_train,sin_train_61,311 2198 462 2316,0.946,automatic
+train,image_171.png,sinfund_train,sin_train_61,72 616 547 665,0.907,automatic
+train,image_172.png,sinfund_train,sin_train_61,1087 615 1355 671,0.884,automatic
+train,image_173.png,sinfund_train,sin_train_61,81 733 349 788,0.887,automatic
+train,image_175.png,sinfund_train,sin_train_61,82 424 603 512,0.848,automatic
+train,image_176.png,sinfund_train,sin_train_61,1113 412 1860 496,0.814,automatic
+train,image_177.png,sinfund_train,sin_train_61,71 1478 1019 1557,0.844,automatic
+train,image_178.png,sinfund_train,sin_train_61,77 1758 683 1821,0.918,automatic
+train,image_179.png,sinfund_train,sin_train_61,56 1943 944 2015,0.886,automatic
+train,image_180.png,sinfund_train,sin_train_61,66 2658 1018 2753,0.908,automatic
+train,image_181.png,sinfund_train,sin_train_61,622 2812 788 2858,0.856,automatic
+train,image_182.png,sinfund_train,sin_train_1,935 1096 1301 1180,0.974,automatic
+train,image_184.png,sinfund_train,sin_train_1,437 1286 1659 1382,0.984,automatic
+train,image_185.png,web_app,,,0.035,
+train,image_186.png,sinfund_train,sin_train_1,425 774 1579 859,0.931,automatic
+train,image_187.png,web_app,,,0.109,
+train,image_188.png,web_app,,,0.100,
+train,image_189.png,sinfund_train,sin_train_8,76 1534 269 1583,0.958,automatic
+train,image_190.png,sinfund_train,sin_train_8,60 387 332 432,0.926,automatic
+train,image_191.png,sinfund_train,sin_train_8,1066 379 1361 425,0.918,automatic
+train,image_192.png,sinfund_train,sin_train_8,65 514 336 559,0.943,automatic
+train,image_193.png,sinfund_train,sin_train_8,68 214 304 249,0.944,automatic
+train,image_194.png,sinfund_train,sin_train_8,1073 184 1770 258,0.951,automatic
+train,image_196.png,sinfund_train,sin_train_8,518 858 895 925,0.947,automatic
+train,image_198.png,sinfund_train,sin_train_8,73 1417 478 1455,0.932,automatic
+train,image_199.png,sinfund_train,sin_train_8,88 1691 522 1747,0.976,automatic
+train,image_200.png,sinfund_train,sin_train_8,294 2189 620 2245,0.910,automatic
+train,image_201.png,sinfund_train,sin_train_8,526 2288 730 2339,0.911,automatic
+train,image_204.png,sinfund_train,sin_train_40,539 1811 857 1863,0.972,automatic
+train,image_205.png,sinfund_train,sin_train_40,1085 2592 1331 2646,0.967,automatic
+train,image_206.png,sinfund_train,sin_train_40,1085 2704 1347 2754,0.953,automatic
+train,image_207.png,sinfund_train,sin_train_40,66 793 298 840,0.881,automatic
+train,image_208.png,sinfund_train,sin_train_40,60 899 258 950,0.909,automatic
+train,image_209.png,sinfund_train,sin_train_40,71 1031 297 1070,0.917,automatic
+train,image_210.png,sinfund_train,sin_train_40,63 1177 528 1239,0.962,automatic
+train,image_214.png,sinfund_train,sin_train_40,1079 2411 1606 2486,0.937,automatic
+train,image_215.png,sinfund_train,sin_train_40,1081 2252 1314 2298,0.942,automatic
+train,image_216.png,sinfund_train,sin_train_40,58 2607 435 2650,0.922,automatic
+train,image_217.png,sinfund_train,sin_train_40,72 2717 334 2761,0.904,automatic
+train,image_218.png,sinfund_train,sin_train_40,75 2842 347 2879,0.917,automatic
+train,image_219.png,sinfund_train,sin_train_40,62 2261 461 2312,0.919,automatic
+train,image_221.png,sinfund_train,sin_train_16,492 601 733 644,0.936,automatic
+train,image_223.png,sinfund_train,sin_train_16,835 1913 1220 1973,0.965,automatic
+train,image_224.png,sinfund_train,sin_train_16,594 334 1077 416,0.925,automatic
+train,image_225.png,sinfund_train,sin_train_16,508 456 755 546,0.942,automatic
+train,image_226.png,sinfund_train,sin_train_16,1438 964 1994 1055,0.964,automatic
+train,image_227.png,sinfund_train,sin_train_16,473 1405 973 1510,0.977,automatic
+train,image_228.png,sinfund_train,sin_train_16,491 1526 919 1610,0.941,automatic
+train,image_229.png,sinfund_train,sin_train_16,475 1755 1177 1874,0.976,automatic
+train,image_230.png,sinfund_train,sin_train_16,856 2042 1443 2121,0.980,automatic
+train,image_231.png,web_app,,,,
+train,image_233.png,sinfund_train,sin_train_16,1437 2464 1782 2544,0.964,automatic
+train,image_234.png,web_app,,,0.099,
+train,image_235.png,sinfund_train,sin_train_53,298 1052 487 1098,0.915,automatic
+train,image_236.png,sinfund_train,sin_train_53,286 993 1445 1056,0.958,automatic
+train,image_237.png,web_app,,,,
+train,image_238.png,sinfund_train,sin_train_53,221 1500 1395 1573,0.981,automatic
+train,image_239.png,sinfund_train,sin_train_53,418 1703 1222 1773,0.771,automatic
+train,image_240.png,sinfund_train,sin_train_53,273 1792 1669 1897,0.842,automatic
+train,image_241.png,sinfund_train,sin_train_53,705 2059 1190 2125,0.958,automatic
+train,image_242.png,sinfund_train,sin_train_53,787 2253 2034 2348,0.952,automatic
+train,image_243.png,sinfund_train,sin_train_53,1496 2532 1831 2591,0.926,automatic
+train,image_246.png,sinfund_train,sin_train_7,485 495 1102 618,0.970,automatic
+train,image_247.png,sinfund_train,sin_train_7,941 758 1513 859,0.961,automatic
+train,image_249.png,sinfund_train,sin_train_7,1059 1944 1224 2012,0.874,automatic
+train,image_250.png,sinfund_test,sin_val_13,1064 1050 1215 1094,0.912,automatic
+train,image_251.png,sinfund_test,sin_val_13,1193 701 1424 775,0.944,automatic
+train,image_252.png,sinfund_test,sin_val_13,853 1840 1033 1910,0.904,automatic
+train,image_253.png,sinfund_test,sin_val_13,841 2008 1083 2077,0.923,automatic
+train,image_254.png,sinfund_test,sin_val_13,1056 1446 1624 1528,0.970,automatic
+train,image_255.png,sinfund_test,sin_val_13,1052 1614 1713 1683,0.975,automatic
+train,image_256.png,sinfund_test,sin_val_13,403 2241 1039 2332,0.980,automatic
+train,image_257.png,sinfund_test,sin_val_13,1049 940 1801 1050,0.982,automatic
+train,image_258.png,sinfund_test,sin_val_13,841 1919 1417 1994,0.964,automatic
+train,image_259.png,sinfund_train,sin_train_51,975 1693 1267 1759,0.961,automatic
+train,image_261.png,sinfund_train,sin_train_51,378 2078 665 2182,0.960,automatic
+train,image_262.png,sinfund_train,sin_train_51,992 806 1978 935,0.982,automatic
+train,image_263.png,web_app,,,0.036,
+train,image_264.png,web_app,,,,
+train,image_267.png,sinfund_train,sin_train_51,1083 2087 1360 2156,0.905,automatic
+train,image_268.png,sinfund_test,sin_val_10,1208 931 1667 1015,0.943,automatic
+train,image_269.png,sinfund_test,sin_val_10,1216 1407 1972 1494,0.926,automatic
+train,image_270.png,web_app,,,,
+train,image_272.png,sinfund_train,sin_train_65,707 1092 824 1143,0.917,automatic
+train,image_273.png,sinfund_train,sin_train_65,702 1248 799 1291,0.918,automatic
+train,image_277.png,sinfund_train,sin_train_65,284 1580 705 1702,0.916,automatic
+train,image_278.png,web_app,,,,
+train,image_279.png,sinfund_train,sin_train_74,592 748 854 808,0.948,automatic
+train,image_280.png,sinfund_train,sin_train_74,493 1372 698 1404,0.850,automatic
+train,image_281.png,sinfund_train,sin_train_74,763 1466 958 1518,0.883,automatic
+train,image_282.png,sinfund_train,sin_train_74,799 1553 1022 1616,0.938,automatic
+train,image_283.png,sinfund_train,sin_train_74,699 1628 889 1683,0.923,automatic
+train,image_284.png,sinfund_train,sin_train_74,698 573 1084 638,0.908,automatic
+train,image_285.png,web_app,,,,
+train,image_286.png,web_app,,,0.160,
+train,image_287.png,sinfund_train,sin_train_74,446 1307 732 1361,0.925,automatic
+train,image_288.png,sinfund_train,sin_train_74,570 1414 802 1490,0.921,automatic
+train,image_293.png,sinfund_train,sin_train_67,556 831 755 917,0.883,automatic
+train,image_295.png,sinfund_train,sin_train_67,550 1033 890 1123,0.937,automatic
+train,image_297.png,sinfund_train,sin_train_67,1077 2825 1254 2945,0.934,automatic
+train,image_300.png,sinfund_train,sin_train_67,341 2151 1291 2226,0.926,automatic
+train,image_301.png,web_app,,,,
+train,image_302.png,sinfund_test,sin_val_7,1111 1305 2622 1444,0.960,automatic
+train,image_303.png,sinfund_test,sin_val_7,1183 1701 1911 1823,0.951,automatic
+train,image_305.png,sinfund_test,sin_val_7,1207 2254 2095 2349,0.971,automatic
+train,image_306.png,sinfund_test,sin_val_7,1116 632 1539 745,0.971,automatic
+train,image_308.png,sinfund_train,sin_train_77,1141 2323 1411 2401,0.950,automatic
+train,image_309.png,sinfund_train,sin_train_77,2055 2187 2117 2237,0.954,automatic
+train,image_310.png,sinfund_train,sin_train_77,375 2605 680 2673,0.903,automatic
+train,image_311.png,sinfund_train,sin_train_77,1222 2576 1561 2649,0.968,automatic
+train,image_312.png,sinfund_train,sin_train_77,,0.524,manual (exact text and box size)
+train,image_313.png,sinfund_train,sin_train_77,939 1403 1680 1461,0.915,automatic
+train,image_314.png,sinfund_train,sin_train_77,750 1477 1931 1597,0.959,automatic
+train,image_317.png,sinfund_train,sin_train_60,1199 926 1561 1019,0.971,automatic
+train,image_318.png,sinfund_train,sin_train_60,926 1020 2060 1159,0.968,automatic
+train,image_319.png,sinfund_train,sin_train_34,843 3362 985 3420,0.877,automatic
+train,image_321.png,sinfund_train,sin_train_34,709 1344 1787 1438,0.971,automatic
+train,image_322.png,sinfund_train,sin_train_34,2214 1634 2489 1734,0.887,automatic
+train,image_323.png,web_app,,,,
+train,image_324.png,sinfund_train,sin_train_34,716 2395 1146 2508,0.959,automatic
+train,image_326.png,sinfund_train,sin_train_34,718 2739 1964 2809,0.960,automatic
+train,image_328.png,web_app,,,,
+train,image_332.png,sinfund_train,sin_train_6,1278 1060 1736 1160,0.926,automatic
+train,image_333.png,sinfund_train,sin_train_6,918 1178 1661 1244,0.915,automatic
+train,image_334.png,web_app,,,0.182,
+train,image_335.png,sinfund_train,sin_train_30,1321 1535 1474 1600,0.893,automatic
+train,image_336.png,sinfund_train,sin_train_30,1347 1686 1480 1737,0.952,automatic
+train,image_337.png,sinfund_train,sin_train_30,1462 2129 1572 2175,0.963,automatic
+train,image_338.png,sinfund_train,sin_train_30,1866 1114 2004 1157,0.944,automatic
+train,image_339.png,sinfund_train,sin_train_30,1286 812 2263 929,0.969,automatic
+train,image_341.png,sinfund_train,sin_train_30,1339 1310 1830 1418,0.964,automatic
+train,image_342.png,sinfund_train,sin_train_30,1149 2467 2033 2555,0.964,automatic
+train,image_343.png,sinfund_train,sin_train_30,1295 2570 1719 2634,0.965,automatic
+train,image_345.png,sinfund_train,sin_train_30,1291 2880 1659 2933,0.938,automatic
+train,image_346.png,sinfund_train,sin_train_45,444 1725 590 1774,0.949,automatic
+train,image_347.png,sinfund_train,sin_train_45,466 1802 600 1870,0.958,automatic
+train,image_348.png,sinfund_train,sin_train_45,913 679 1058 745,0.939,automatic
+train,image_351.png,sinfund_train,sin_train_45,1020 886 1237 945,0.959,automatic
+train,image_352.png,sinfund_train,sin_train_45,847 402 2012 547,0.961,automatic
+train,image_355.png,sinfund_train,sin_train_45,405 1521 1137 1585,0.949,automatic
+train,image_356.png,sinfund_train,sin_train_45,477 1999 780 2075,0.857,automatic
+train,image_357.png,sinfund_train,sin_train_45,491 2108 911 2168,0.933,automatic
+train,image_359.png,sinfund_train,sin_train_45,492 2283 1264 2354,0.964,automatic
+train,image_363.png,sinfund_train,sin_train_5,1061 791 2336 902,0.977,automatic
+train,image_364.png,sinfund_train,sin_train_5,713 1191 1551 1275,0.965,automatic
+train,image_365.png,sinfund_train,sin_train_5,747 1562 1610 1665,0.965,automatic
+train,image_367.png,sinfund_train,sin_train_69,323 735 491 781,0.853,automatic
+train,image_368.png,sinfund_train,sin_train_69,565 994 619 1051,0.975,automatic
+train,image_369.png,sinfund_train,sin_train_69,642 1037 742 1090,0.832,automatic
+train,image_371.png,sinfund_train,sin_train_69,496 1374 710 1437,0.982,automatic
+train,image_373.png,sinfund_train,sin_train_69,428 1862 600 1905,0.976,automatic
+train,image_375.png,sinfund_train,sin_train_69,419 2006 571 2069,0.973,automatic
+train,image_376.png,sinfund_train,sin_train_69,618 1425 798 1483,0.973,automatic
+train,image_377.png,sinfund_train,sin_train_69,680 1483 870 1541,0.975,automatic
+train,image_379.png,sinfund_train,sin_train_69,746 664 1371 742,0.869,automatic
+train,image_380.png,web_app,,,0.109,
+train,image_382.png,sinfund_train,sin_train_69,967 1802 1330 1848,0.856,automatic
+train,image_384.png,web_app,,,0.122,
+train,image_385.png,sinfund_test,sin_val_1,627 242 871 291,0.942,automatic
+train,image_386.png,sinfund_test,sin_val_1,237 682 1440 751,0.931,automatic
+train,image_387.png,sinfund_test,sin_val_1,306 725 622 799,0.932,automatic
+train,image_388.png,sinfund_test,sin_val_1,324 1025 751 1084,0.961,automatic
+train,image_390.png,sinfund_train,sin_train_23,490 358 589 417,0.938,automatic
+train,image_391.png,sinfund_train,sin_train_23,463 499 583 554,0.801,automatic
+train,image_392.png,sinfund_train,sin_train_23,497 939 633 974,0.842,automatic
+train,image_393.png,sinfund_train,sin_train_23,440 1025 558 1070,0.901,automatic
+train,image_395.png,sinfund_train,sin_train_23,433 251 1186 302,0.895,automatic
+train,image_396.png,sinfund_train,sin_train_23,375 667 617 716,0.941,automatic
+train,image_397.png,sinfund_train,sin_train_23,378 743 674 789,0.943,automatic
+train,image_399.png,sinfund_train,sin_train_23,378 823 673 877,0.870,automatic
+train,image_400.png,sinfund_train,sin_train_23,384 1111 749 1191,0.956,automatic
+train,image_401.png,sinfund_train,sin_train_23,371 702 626 754,0.864,automatic
+train,image_402.png,sinfund_train,sin_train_4,452 1226 575 1271,0.915,automatic
+train,image_403.png,sinfund_train,sin_train_4,452 1336 558 1381,0.939,automatic
+train,image_404.png,sinfund_train,sin_train_4,593 1442 697 1481,0.933,automatic
+train,image_405.png,sinfund_train,sin_train_4,376 153 831 197,0.953,automatic
+train,image_406.png,sinfund_train,sin_train_4,365 183 807 236,0.927,automatic
+train,image_409.png,sinfund_train,sin_train_4,354 689 586 727,0.922,automatic
+train,image_410.png,sinfund_train,sin_train_4,366 926 1070 978,0.958,automatic
+train,image_412.png,sinfund_train,sin_train_4,613 1026 765 1074,0.854,automatic
+train,image_415.png,web_app,,,,
+train,image_416.png,web_app,,,0.159,
+train,image_418.png,web_app,,,0.213,
+train,image_420.png,web_app,,,0.100,
+train,image_421.png,sinfund_train,sin_train_17,362 879 573 923,0.929,automatic
+train,image_424.png,sinfund_train,sin_train_79,954 1374 1061 1441,0.877,automatic
+train,image_425.png,web_app,,,0.163,
+train,image_426.png,sinfund_train,sin_train_79,993 832 1219 901,0.935,automatic
+train,image_427.png,sinfund_train,sin_train_79,935 955 1111 1036,0.910,automatic
+train,image_431.png,sinfund_train,sin_train_79,931 1488 1119 1561,0.970,automatic
+train,image_433.png,sinfund_train,sin_train_79,536 1706 795 1755,0.933,automatic
+train,image_434.png,sinfund_train,sin_train_79,859 488 1205 563,0.916,automatic
+train,image_436.png,sinfund_train,sin_train_18,743 1379 914 1431,0.941,automatic
+train,image_439.png,web_app,,,0.172,
+train,image_442.png,sinfund_train,sin_train_18,682 1173 904 1225,0.833,automatic
+train,image_443.png,sinfund_train,sin_train_18,685 1019 1044 1077,0.962,automatic
+train,image_444.png,web_app,,,0.136,
+train,image_445.png,sinfund_train,sin_train_63,538 691 762 733,0.896,automatic
+train,image_446.png,sinfund_train,sin_train_63,558 573 927 623,0.920,automatic
+train,image_448.png,sinfund_train,sin_train_63,805 1086 899 1131,0.760,automatic
+train,image_449.png,sinfund_train,sin_train_63,719 637 1257 692,0.976,automatic
+train,image_450.png,web_app,,,0.248,
+train,image_454.png,sinfund_train,sin_train_26,526 876 980 917,0.974,automatic
+train,image_456.png,web_app,,,0.233,
+train,image_457.png,sinfund_train,sin_train_26,660 1118 748 1134,0.949,automatic
+train,image_458.png,web_app,,,0.313,
+train,image_459.png,web_app,,,0.304,
+train,image_461.png,web_app,,,0.087,
+train,image_462.png,web_app,,,0.297,
+train,image_463.png,sinfund_train,sin_train_41,533 158 750 205,0.940,automatic
+train,image_465.png,sinfund_train,sin_train_41,1111 1392 1184 1444,0.909,automatic
+train,image_466.png,sinfund_train,sin_train_41,787 1460 908 1521,0.911,automatic
+train,image_467.png,sinfund_train,sin_train_41,619 190 841 235,0.845,automatic
+train,image_468.png,sinfund_train,sin_train_41,308 378 644 442,0.933,automatic
+train,image_469.png,web_app,,,0.209,
+train,image_470.png,sinfund_train,sin_train_41,407 915 739 981,0.979,automatic
+train,image_471.png,sinfund_train,sin_train_41,633 982 1192 1052,0.991,automatic
+train,image_472.png,sinfund_train,sin_train_41,972 1071 1236 1131,0.810,automatic
+train,image_473.png,sinfund_train,sin_train_41,617 1313 983 1381,0.866,automatic
+train,image_474.png,sinfund_train,sin_train_39,718 633 914 692,0.869,automatic
+train,image_476.png,sinfund_train,sin_train_39,1016 1233 1104 1272,0.912,automatic
+train,image_478.png,sinfund_train,sin_train_39,939 1512 1207 1555,0.959,automatic
+train,image_479.png,sinfund_train,sin_train_39,675 490 1243 560,0.989,automatic
+train,image_480.png,web_app,,,0.168,
+train,image_481.png,sinfund_train,sin_train_39,720 717 1077 770,0.951,automatic
+train,image_483.png,sinfund_train,sin_train_39,946 1449 1213 1501,0.965,automatic
+train,image_486.png,sinfund_train,sin_train_35,219 154 513 185,0.956,automatic
+train,image_487.png,web_app,,,0.099,
+train,image_489.png,sinfund_train,sin_train_35,228 398 367 437,0.856,automatic
+train,image_490.png,web_app,,,0.209,
+train,image_491.png,web_app,,,0.157,
+train,image_492.png,sinfund_train,sin_train_43,878 1056 964 1077,0.850,automatic
+train,image_494.png,sinfund_train,sin_train_43,862 1333 1361 1389,0.977,automatic
+train,image_498.png,sinfund_train,sin_train_43,851 188 1577 269,0.984,automatic
+train,image_500.png,sinfund_train,sin_train_43,858 410 1398 467,0.968,automatic
+train,image_501.png,sinfund_train,sin_train_43,846 467 1098 517,0.965,automatic
+train,image_502.png,sinfund_train,sin_train_43,865 496 1375 568,0.921,automatic
+train,image_504.png,sinfund_train,sin_train_43,899 1115 1266 1176,0.909,automatic
+train,image_505.png,sinfund_train,sin_train_55,626 586 946 658,0.955,automatic
+train,image_507.png,sinfund_train,sin_train_55,621 864 926 934,0.943,automatic
+train,image_508.png,sinfund_train,sin_train_55,609 951 891 1013,0.965,automatic
+train,image_509.png,sinfund_train,sin_train_55,608 1022 878 1080,0.938,automatic
+train,image_511.png,sinfund_train,sin_train_73,351 649 440 681,0.845,automatic
+train,image_512.png,sinfund_train,sin_train_73,707 638 855 675,0.744,automatic
+train,image_513.png,web_app,,,0.270,
+train,image_514.png,sinfund_train,sin_train_73,460 360 964 412,0.964,automatic
+train,image_515.png,sinfund_train,sin_train_73,452 997 566 1024,0.850,automatic
+train,image_516.png,web_app,,,0.319,
+train,image_517.png,web_app,,,0.319,
+train,image_518.png,sinfund_train,sin_train_73,362 925 710 964,0.910,automatic
+train,image_519.png,sinfund_train,sin_train_73,530 1338 972 1376,0.946,automatic
+train,image_520.png,sinfund_train,sin_train_66,1362 2362 1478 2453,0.936,automatic
+train,image_521.png,sinfund_train,sin_train_66,626 1855 705 1925,0.674,automatic
+train,image_523.png,sinfund_train,sin_train_66,844 2092 1346 2178,0.962,automatic
+train,image_524.png,sinfund_train,sin_train_66,722 1744 897 1813,0.893,automatic
+train,image_527.png,sinfund_train,sin_train_66,807 1215 1220 1291,0.938,automatic
+train,image_529.png,sinfund_train,sin_train_66,636 734 1674 850,0.982,automatic
+train,image_532.png,sinfund_train,sin_train_28,738 2518 1042 2582,0.965,automatic
+train,image_533.png,sinfund_train,sin_train_28,770 950 1159 1019,0.979,automatic
+train,image_535.png,web_app,,,,
+train,image_537.png,web_app,,,,
+train,image_538.png,sinfund_test,sin_val_18,660 728 832 786,0.950,automatic
+train,image_539.png,sinfund_test,sin_val_18,658 791 824 860,0.924,automatic
+train,image_540.png,sinfund_test,sin_val_18,669 842 836 933,0.930,automatic
+train,image_541.png,sinfund_test,sin_val_18,694 907 819 1031,0.957,automatic
+train,image_543.png,web_app,,,,
+train,image_545.png,sinfund_train,sin_train_75,1113 2218 1357 2278,0.881,automatic
+train,image_546.png,sinfund_train,sin_train_75,1056 1814 1328 1880,0.939,automatic
+train,image_547.png,sinfund_train,sin_train_75,993 900 1898 1033,0.981,automatic
+train,image_548.png,web_app,,,,
+train,image_549.png,web_app,,,,
+train,image_550.png,sinfund_train,sin_train_75,1047 1580 1770 1671,0.977,automatic
+train,image_554.png,web_app,,,0.084,
+train,image_555.png,sinfund_train,sin_train_33,666 719 1104 831,0.978,automatic
+train,image_556.png,web_app,,,,
+train,image_557.png,web_app,,,-0.053,
+train,image_559.png,sinfund_train,sin_train_33,609 1396 976 1472,0.786,automatic
+train,image_561.png,sinfund_train,sin_train_33,884 1670 1250 1780,0.973,automatic
+train,image_562.png,web_app,,,,
+train,image_563.png,sinfund_train,sin_train_33,528 1930 1381 2027,0.945,automatic
+train,image_564.png,sinfund_train,sin_train_33,453 2471 1523 2601,0.831,automatic
+train,image_566.png,sinfund_train,sin_train_52,609 994 776 1075,0.909,automatic
+train,image_567.png,sinfund_train,sin_train_52,602 1175 983 1266,0.952,automatic
+train,image_568.png,sinfund_train,sin_train_52,396 2185 514 2230,0.861,automatic
+train,image_569.png,sinfund_train,sin_train_52,406 1330 977 1416,0.967,automatic
+train,image_570.png,sinfund_train,sin_train_52,635 1618 885 1710,0.880,automatic
+train,image_571.png,sinfund_train,sin_train_52,494 2788 742 2850,0.844,automatic
+train,image_572.png,sinfund_train,sin_train_52,397 2702 802 2765,0.947,automatic
+train,image_573.png,web_app,,,,
+train,image_574.png,sinfund_train,sin_train_52,1118 2784 1324 2848,0.833,automatic
+train,image_575.png,sinfund_train,sin_train_64,835 1241 1422 1346,0.953,automatic
+train,image_576.png,sinfund_train,sin_train_64,791 1516 1609 1631,0.985,automatic
+train,image_577.png,sinfund_train,sin_train_64,851 1701 1519 1822,0.985,automatic
+train,image_578.png,web_app,,,,
+train,image_579.png,sinfund_train,sin_train_64,801 714 1232 837,0.968,automatic
+train,image_580.png,sinfund_train,sin_train_64,449 2489 785 2578,0.961,automatic
+train,image_581.png,web_app,,,,
+train,image_582.png,sinfund_train,sin_train_58,1569 1957 1622 1994,0.887,automatic
+train,image_583.png,sinfund_train,sin_train_58,1042 2020 1207 2088,0.895,automatic
+train,image_585.png,sinfund_train,sin_train_58,1020 2245 1138 2302,0.801,automatic
+train,image_586.png,sinfund_train,sin_train_58,804 2174 1108 2243,0.951,automatic
+train,image_588.png,sinfund_train,sin_train_58,704 1561 963 1638,0.964,automatic
+train,image_589.png,sinfund_train,sin_train_58,693 1409 1335 1466,0.978,automatic
+train,image_590.png,web_app,,,0.232,
+train,image_591.png,sinfund_train,sin_train_58,705 1248 1203 1315,0.966,automatic
+train,image_593.png,sinfund_train,sin_train_70,585 821 1994 947,0.975,automatic
+train,image_597.png,sinfund_train,sin_train_49,653 1633 919 1727,0.951,automatic
+train,image_598.png,web_app,,,0.210,
+train,image_599.png,sinfund_train,sin_train_49,601 1163 1840 1281,0.989,automatic
+train,image_600.png,web_app,,,,
+train,image_601.png,sinfund_train,sin_train_49,532 1990 1182 2112,0.953,automatic
+train,image_602.png,web_app,,,,
+train,image_603.png,sinfund_train,sin_train_49,599 2246 1474 2337,0.965,automatic
+train,image_604.png,web_app,,,,
+train,image_605.png,web_app,,,,
+train,image_606.png,sinfund_train,sin_train_49,712 2724 878 2791,0.900,automatic
+train,image_607.png,sinfund_train,sin_train_49,696 2767 1659 2850,0.797,automatic
+train,image_608.png,web_app,,,0.118,
+train,image_609.png,sinfund_train,sin_train_49,1090 805 1632 896,0.932,automatic
+train,image_610.png,web_app,,,0.148,
+train,image_611.png,sinfund_train,sin_train_76,828 1304 921 1372,0.919,automatic
+train,image_613.png,sinfund_train,sin_train_76,657 1096 1107 1177,0.905,automatic
+train,image_615.png,sinfund_train,sin_train_76,621 920 1325 1039,0.949,automatic
+train,image_616.png,sinfund_test,sin_val_3,942 2117 1135 2164,0.899,automatic
+train,image_617.png,sinfund_test,sin_val_3,1013 1146 1117 1226,0.890,automatic
+train,image_618.png,sinfund_test,sin_val_3,1396 1076 1523 1144,0.895,automatic
+train,image_619.png,sinfund_test,sin_val_3,1022 1367 1280 1460,0.917,automatic
+train,image_620.png,sinfund_test,sin_val_3,999 1479 1262 1573,0.946,automatic
+train,image_621.png,sinfund_test,sin_val_3,1043 836 1716 965,0.957,automatic
+train,image_622.png,web_app,,,,
+train,image_624.png,sinfund_test,sin_val_3,959 2049 1286 2118,0.929,automatic
+train,image_627.png,sinfund_train,sin_train_13,332 1430 511 1506,0.915,automatic
+train,image_629.png,sinfund_train,sin_train_13,308 1749 479 1817,0.969,automatic
+train,image_630.png,sinfund_train,sin_train_13,302 1914 494 1968,0.976,automatic
+train,image_631.png,sinfund_train,sin_train_13,309 1508 515 1584,0.899,automatic
+train,image_633.png,sinfund_train,sin_train_13,639 765 734 846,0.923,automatic
+train,image_634.png,sinfund_train,sin_train_13,704 938 929 1006,0.902,automatic
+train,image_636.png,sinfund_train,sin_train_13,640 570 1610 673,0.993,automatic
+train,image_637.png,web_app,,,0.042,
+train,image_639.png,sinfund_train,sin_train_13,321 1585 581 1679,0.921,automatic
+train,image_640.png,sinfund_train,sin_train_32,1020 964 1290 1045,0.982,automatic
+train,image_642.png,sinfund_train,sin_train_32,1031 1536 1241 1639,0.907,automatic
+train,image_644.png,sinfund_train,sin_train_32,1005 771 1666 913,0.780,automatic
+train,image_645.png,web_app,,,,
+train,image_646.png,sinfund_test,sin_val_6,1570 872 1718 971,0.977,automatic
+train,image_647.png,sinfund_test,sin_val_6,598 1100 959 1158,0.971,automatic
+train,image_649.png,sinfund_test,sin_val_6,1469 1326 1653 1390,0.968,automatic
+train,image_650.png,sinfund_test,sin_val_6,1445 999 1831 1055,0.971,automatic
+train,image_651.png,sinfund_test,sin_val_6,1560 1207 2118 1296,0.989,automatic
+train,image_652.png,web_app,,,0.118,
+train,image_653.png,web_app,,,0.050,
+train,image_654.png,sinfund_test,sin_val_6,311 944 1053 1015,0.961,automatic
+train,image_656.png,sinfund_test,sin_val_5,1969 1179 2325 1240,0.965,automatic
+train,image_657.png,sinfund_test,sin_val_5,1322 1172 1651 1250,0.869,automatic
+train,image_658.png,sinfund_test,sin_val_5,881 1907 1075 1973,0.932,automatic
+train,image_659.png,sinfund_test,sin_val_5,714 1454 1595 1574,0.950,automatic
+train,image_660.png,web_app,,,,
+train,image_661.png,web_app,,,0.143,
+train,image_662.png,sinfund_test,sin_val_5,777 2687 2336 2800,0.951,automatic
+train,image_663.png,web_app,,,,
+train,image_664.png,sinfund_test,sin_val_17,2155 1268 2538 1355,0.962,automatic
+train,image_665.png,sinfund_test,sin_val_17,1553 3097 1877 3177,0.920,automatic
+train,image_666.png,sinfund_test,sin_val_17,1207 544 2382 658,0.978,automatic
+train,image_668.png,web_app,,,,
+train,image_670.png,sinfund_test,sin_val_17,892 1284 1077 1375,0.933,automatic
+train,image_671.png,sinfund_test,sin_val_17,1378 1584 1889 1698,0.959,automatic
+train,image_673.png,sinfund_test,sin_val_17,910 2051 1593 2127,0.919,automatic
+train,image_674.png,sinfund_test,sin_val_17,1224 2229 2587 2310,0.920,automatic
+train,image_675.png,sinfund_test,sin_val_17,1405 3186 1747 3272,0.969,automatic
+train,image_677.png,sinfund_train,sin_train_36,749 600 959 675,0.964,automatic
+train,image_678.png,sinfund_train,sin_train_36,751 672 921 746,0.961,automatic
+train,image_680.png,sinfund_train,sin_train_36,721 311 1567 422,0.971,automatic
+train,image_681.png,web_app,,,,
+train,image_682.png,sinfund_train,sin_train_36,717 2678 1228 2808,0.977,automatic
+train,image_683.png,sinfund_train,sin_train_36,817 2812 1259 2936,0.965,automatic
+train,image_684.png,sinfund_train,sin_train_36,976 2923 1453 3080,0.972,automatic
+train,image_686.png,web_app,,,,
+train,image_687.png,sinfund_train,sin_train_50,1033 1575 1479 1654,0.962,automatic
+train,image_689.png,sinfund_train,sin_train_50,1216 1895 1732 1989,0.954,automatic
+train,image_690.png,sinfund_train,sin_train_25,784 980 980 1071,0.905,automatic
+train,image_691.png,sinfund_train,sin_train_25,703 2363 877 2428,0.958,automatic
+train,image_692.png,sinfund_train,sin_train_25,1911 3048 2114 3141,0.915,automatic
+train,image_693.png,web_app,,,,
+train,image_694.png,sinfund_train,sin_train_25,717 1446 1433 1540,0.959,automatic
+train,image_695.png,sinfund_train,sin_train_25,716 636 1436 734,0.973,automatic
+train,image_696.png,web_app,,,,
+train,image_697.png,sinfund_train,sin_train_25,2057 2182 2339 2294,0.947,automatic
+train,image_698.png,sinfund_train,sin_train_25,2086 2357 2432 2415,0.965,automatic
+train,image_699.png,sinfund_train,sin_train_25,732 2769 1170 2881,0.922,automatic
+train,image_700.png,sinfund_train,sin_train_25,674 3050 1085 3153,0.962,automatic
+train,image_701.png,sinfund_train,sin_train_25,683 3259 1004 3327,0.965,automatic
+train,image_702.png,sinfund_train,sin_train_25,1902 3233 2244 3317,0.968,automatic
+train,image_703.png,sinfund_train,sin_train_44,1253 643 1706 722,0.963,automatic
+train,image_705.png,web_app,,,,
+train,image_706.png,web_app,,,,
+train,image_707.png,web_app,,,,
+train,image_708.png,sinfund_test,sin_val_11,2094 766 2214 845,0.959,automatic
+train,image_709.png,sinfund_test,sin_val_11,747 1068 1222 1154,0.961,automatic
+train,image_710.png,sinfund_test,sin_val_11,705 499 1232 585,0.965,automatic
+train,image_711.png,sinfund_test,sin_val_11,2047 1182 2381 1249,0.959,automatic
+train,image_713.png,sinfund_test,sin_val_11,1880 890 2465 966,0.971,automatic
+train,image_714.png,web_app,,,-0.013,
+train,image_716.png,sinfund_test,sin_val_11,961 1378 1309 1464,0.920,automatic
+train,image_717.png,sinfund_test,sin_val_11,1045 1962 1252 2033,0.882,automatic
+train,image_718.png,sinfund_train,sin_train_71,946 1778 1630 1956,0.955,automatic
+train,image_719.png,sinfund_train,sin_train_71,781 485 1373 574,0.935,automatic
+train,image_720.png,sinfund_train,sin_train_71,1051 764 1799 916,0.926,automatic
+train,image_721.png,sinfund_train,sin_train_71,668 1075 1195 1177,0.950,automatic
+train,image_722.png,sinfund_train,sin_train_71,823 1182 1529 1275,0.909,automatic
+train,image_723.png,sinfund_train,sin_train_71,550 1292 988 1381,0.939,automatic
+train,image_725.png,sinfund_test,sin_val_15,1225 678 1466 720,0.926,automatic
+train,image_726.png,sinfund_test,sin_val_15,1267 923 1522 1028,0.934,automatic
+train,image_727.png,sinfund_test,sin_val_15,1300 1408 1436 1450,0.956,automatic
+train,image_728.png,sinfund_test,sin_val_15,1156 285 2369 441,0.859,automatic
+train,image_730.png,sinfund_test,sin_val_15,1267 808 1549 857,0.919,automatic
+train,image_731.png,sinfund_test,sin_val_15,1328 1671 1526 1778,0.907,automatic
+train,image_732.png,sinfund_test,sin_val_15,1305 1823 1522 1941,0.913,automatic
+train,image_733.png,sinfund_train,sin_train_68,923 1202 1317 1298,0.967,automatic
+train,image_735.png,sinfund_train,sin_train_68,481 2050 648 2110,0.956,automatic
+train,image_738.png,sinfund_train,sin_train_68,714 612 1521 726,0.970,automatic
+train,image_739.png,sinfund_train,sin_train_68,438 727 1678 829,0.969,automatic
+train,image_740.png,sinfund_train,sin_train_68,885 1307 1651 1374,0.963,automatic
+train,image_741.png,web_app,,,,
+train,image_743.png,sinfund_train,sin_train_27,591 806 1554 924,0.935,automatic
+train,image_744.png,sinfund_train,sin_train_27,876 1002 1436 1131,0.958,automatic
+train,image_745.png,sinfund_train,sin_train_27,1728 1109 2256 1227,0.965,automatic
+train,image_746.png,sinfund_train,sin_train_27,577 1290 1257 1390,0.960,automatic
+train,image_752.png,sinfund_train,sin_train_10,1088 422 1219 488,0.962,automatic
+train,image_754.png,sinfund_train,sin_train_10,366 421 634 490,0.917,automatic
+train,image_756.png,sinfund_train,sin_train_10,2014 401 2325 483,0.935,automatic
+train,image_757.png,sinfund_train,sin_train_10,902 1272 1392 1369,0.970,automatic
+train,image_760.png,sinfund_train,sin_train_10,418 2121 1947 2233,0.908,automatic
+train,image_763.png,sinfund_train,sin_train_10,457 2668 612 2750,0.934,automatic
+train,image_764.png,sinfund_train,sin_train_31,1553 2011 1702 2062,0.948,automatic
+train,image_765.png,sinfund_train,sin_train_31,1005 735 1957 872,0.974,automatic
+train,image_767.png,sinfund_train,sin_train_31,1009 1112 2156 1238,0.974,automatic
+train,image_768.png,web_app,,,,
+train,image_769.png,web_app,,,,
+train,image_770.png,web_app,,,,
+train,image_771.png,sinfund_train,sin_train_31,313 2813 1342 2963,0.958,automatic
+train,image_772.png,sinfund_train,sin_train_54,568 1539 949 1682,0.949,automatic
+train,image_773.png,sinfund_train,sin_train_54,2024 2402 2162 2488,0.909,automatic
+train,image_774.png,sinfund_train,sin_train_54,394 536 1335 674,0.974,automatic
+train,image_775.png,web_app,,,,
+train,image_776.png,sinfund_train,sin_train_54,660 1404 1227 1471,0.924,automatic
+train,image_778.png,sinfund_train,sin_train_54,255 1978 790 2129,0.954,automatic
+train,image_780.png,web_app,,,,
+train,image_782.png,sinfund_train,sin_train_19,1322 1400 2478 1532,0.964,automatic
+train,image_783.png,sinfund_train,sin_train_19,1563 1521 2351 1606,0.968,automatic
+train,image_784.png,sinfund_train,sin_train_19,1675 1811 2085 1879,0.966,automatic
+train,image_786.png,sinfund_test,sin_val_9,1698 1926 1881 2020,0.959,automatic
+train,image_787.png,sinfund_test,sin_val_9,569 894 880 1013,0.970,automatic
+train,image_788.png,sinfund_test,sin_val_9,838 726 1258 864,0.957,automatic
+train,image_793.png,sinfund_test,sin_val_9,513 2443 867 2527,0.950,automatic
+train,image_795.png,sinfund_train,sin_train_0,1241 1069 1427 1164,0.964,automatic
+train,image_799.png,web_app,,,,
+train,image_800.png,web_app,,,0.116,
+train,image_801.png,sinfund_train,sin_train_0,1251 1797 1474 1873,0.911,automatic
+train,image_802.png,sinfund_train,sin_train_0,1052 2538 1456 2624,0.959,automatic
+train,image_803.png,sinfund_train,sin_train_0,1024 2892 1451 2976,0.958,automatic
+train,image_804.png,sinfund_train,sin_train_0,1013 2738 1455 2868,0.946,automatic
+train,image_805.png,sinfund_train,sin_train_0,1022 2295 1496 2398,0.947,automatic
+train,image_808.png,sinfund_test,sin_val_19,946 1367 1066 1438,0.888,automatic
+train,image_812.png,sinfund_test,sin_val_19,291 411 490 481,0.668,automatic
+train,image_813.png,sinfund_test,sin_val_19,875 493 1196 561,0.954,automatic
+train,image_814.png,sinfund_test,sin_val_19,887 562 1356 621,0.986,automatic
+train,image_816.png,sinfund_test,sin_val_19,915 952 1136 1031,0.951,automatic
+train,image_817.png,sinfund_test,sin_val_19,933 1481 1111 1545,0.744,automatic
+train,image_818.png,sinfund_test,sin_val_19,511 1678 738 1709,0.911,automatic
+train,image_831.png,sinfund_test,sin_val_8,509 821 921 860,0.953,automatic
+train,image_832.png,sinfund_test,sin_val_8,503 969 1209 1011,0.963,automatic
+train,image_833.png,sinfund_test,sin_val_8,352 1090 775 1140,0.874,automatic
+train,image_835.png,sinfund_test,sin_val_8,551 1320 757 1374,0.902,automatic
+train,image_840.png,sinfund_test,sin_val_8,365 2163 1287 2217,0.854,automatic
+train,image_841.png,sinfund_test,sin_val_8,437 2316 580 2347,0.926,automatic
+train,image_845.png,sinfund_train,sin_train_59,693 842 895 904,0.940,automatic
+train,image_847.png,sinfund_train,sin_train_59,438 462 1018 530,0.944,automatic
+train,image_848.png,web_app,,,,
+train,image_849.png,sinfund_train,sin_train_59,605 693 703 746,0.893,automatic
+train,image_850.png,sinfund_train,sin_train_59,581 639 1654 715,0.968,automatic
+train,image_851.png,sinfund_train,sin_train_59,310 1692 571 1757,0.834,automatic
+train,image_852.png,sinfund_train,sin_train_59,290 1487 496 1543,0.917,automatic
+train,image_853.png,sinfund_train,sin_train_59,271 1348 450 1412,0.938,automatic
+train,image_854.png,sinfund_train,sin_train_59,263 1422 461 1484,0.872,automatic
+train,image_855.png,sinfund_train,sin_train_59,235 1279 508 1354,0.945,automatic
+train,image_856.png,sinfund_train,sin_train_59,307 1549 767 1624,0.894,automatic
+train,image_857.png,sinfund_train,sin_train_59,312 1623 770 1685,0.955,automatic
+train,image_858.png,sinfund_train,sin_train_59,318 1744 790 1828,0.941,automatic
+train,image_859.png,sinfund_train,sin_train_59,327 1813 820 1892,0.960,automatic
+train,image_870.png,sinfund_train,sin_train_12,464 1060 1457 1155,0.988,automatic
+train,image_874.png,web_app,,,0.159,
+train,image_876.png,sinfund_train,sin_train_12,505 1966 1159 2061,0.953,automatic
+train,image_877.png,sinfund_train,sin_train_12,491 2059 1231 2149,0.981,automatic
+train,image_878.png,sinfund_test,sin_val_16,893 1202 1023 1249,0.912,automatic
+train,image_879.png,sinfund_test,sin_val_16,1201 907 1387 990,0.919,automatic
+train,image_880.png,sinfund_test,sin_val_16,913 754 1344 829,0.959,automatic
+train,image_881.png,sinfund_test,sin_val_16,868 990 963 1065,0.841,automatic
+train,image_882.png,sinfund_test,sin_val_16,896 1287 1035 1351,0.896,automatic
+train,image_883.png,sinfund_test,sin_val_16,910 1567 1001 1608,0.861,automatic
+train,image_884.png,sinfund_test,sin_val_16,780 1843 897 1905,0.925,automatic
+train,image_888.png,sinfund_test,sin_val_16,784 1791 1114 1849,0.927,automatic
+train,image_891.png,sinfund_train,sin_train_48,507 895 1103 945,0.967,automatic
+train,image_892.png,sinfund_train,sin_train_48,654 812 1156 879,0.940,automatic
+train,image_893.png,sinfund_train,sin_train_48,498 733 1146 809,0.969,automatic
+train,image_894.png,sinfund_train,sin_train_57,489 568 563 624,0.871,automatic
+train,image_895.png,sinfund_train,sin_train_57,467 648 600 708,0.877,automatic
+train,image_896.png,sinfund_train,sin_train_57,664 556 800 617,0.839,automatic
+train,image_897.png,sinfund_train,sin_train_57,676 604 766 674,0.898,automatic
+train,image_898.png,sinfund_train,sin_train_57,668 661 797 717,0.821,automatic
+train,image_899.png,sinfund_train,sin_train_57,866 565 1015 612,0.797,automatic
+train,image_900.png,sinfund_train,sin_train_57,872 618 1027 657,0.856,automatic
+train,image_901.png,sinfund_train,sin_train_57,856 655 1025 719,0.866,automatic
+train,image_902.png,sinfund_train,sin_train_57,1253 566 1406 614,0.870,automatic
+train,image_904.png,sinfund_train,sin_train_57,1274 643 1369 707,0.890,automatic
+train,image_905.png,sinfund_train,sin_train_57,250 573 441 628,0.855,automatic
+train,image_909.png,sinfund_train,sin_train_57,478 1040 884 1115,0.837,automatic
+train,image_911.png,sinfund_train,sin_train_57,629 1100 1478 1205,0.804,automatic
+train,image_912.png,sinfund_train,sin_train_57,543 1167 628 1223,0.798,automatic
+train,image_913.png,sinfund_train,sin_train_57,358 1981 611 2074,0.902,automatic
+train,image_914.png,web_app,,,,
+train,image_915.png,sinfund_train,sin_train_57,454 1740 570 1815,0.798,automatic
+train,image_917.png,web_app,,,0.107,
+train,image_918.png,sinfund_train,sin_train_24,831 671 1217 730,0.872,automatic
+train,image_919.png,web_app,,,,
+train,image_920.png,web_app,,,0.104,
+train,image_924.png,sinfund_train,sin_train_22,1388 1547 1541 1588,0.844,automatic
+train,image_925.png,web_app,,,0.250,
+train,image_926.png,sinfund_train,sin_train_22,730 799 1549 860,0.983,automatic
+train,image_927.png,web_app,,,0.171,
+train,image_928.png,sinfund_train,sin_train_56,645 1115 736 1162,0.854,automatic
+train,image_929.png,web_app,,,,
+train,image_932.png,sinfund_train,sin_train_56,892 1721 1084 1769,0.894,automatic
+train,image_933.png,sinfund_train,sin_train_56,697 1617 1212 1659,0.966,automatic
+train,image_934.png,web_app,,,0.247,
+train,image_935.png,sinfund_train,sin_train_56,407 1481 769 1528,0.941,automatic
+train,image_936.png,sinfund_train,sin_train_56,523 1940 983 1993,0.958,automatic
+train,image_937.png,sinfund_train,sin_train_56,530 1986 920 2025,0.939,automatic
+train,image_939.png,sinfund_train,sin_train_56,979 2245 1317 2303,0.919,automatic
+train,image_943.png,sinfund_test,sin_val_2,1093 646 1378 685,0.929,automatic
+train,image_944.png,sinfund_test,sin_val_2,350 894 478 943,0.903,automatic
+train,image_945.png,sinfund_test,sin_val_2,889 898 1058 949,0.942,automatic
+train,image_946.png,sinfund_test,sin_val_2,1288 891 1514 936,0.941,automatic
+train,image_947.png,sinfund_test,sin_val_2,498 1397 579 1477,0.960,automatic
+train,image_949.png,sinfund_test,sin_val_2,471 1098 1536 1178,0.986,automatic
+train,image_951.png,sinfund_test,sin_val_2,809 1541 1257 1628,0.936,automatic
+train,image_952.png,sinfund_test,sin_val_2,818 1636 1070 1694,0.976,automatic
+train,image_953.png,sinfund_test,sin_val_2,824 1713 1012 1771,0.879,automatic
+train,image_956.png,sinfund_test,sin_val_2,639 1997 1450 2081,0.974,automatic
+train,image_958.png,sinfund_test,sin_val_2,681 2146 1180 2215,0.964,automatic
+train,image_959.png,sinfund_train,sin_train_42,853 1691 1035 1770,0.943,automatic
+train,image_960.png,sinfund_train,sin_train_42,331 1770 534 1832,0.942,automatic
+train,image_961.png,sinfund_train,sin_train_42,861 1773 1095 1835,0.971,automatic
+train,image_963.png,sinfund_train,sin_train_42,783 760 1460 858,0.969,automatic
+train,image_965.png,web_app,,,,
+train,image_966.png,sinfund_train,sin_train_42,791 1274 1158 1367,0.926,automatic
+train,image_967.png,sinfund_train,sin_train_42,796 1454 983 1516,0.916,automatic
+train,image_968.png,sinfund_train,sin_train_9,695 635 968 685,0.946,automatic
+train,image_971.png,sinfund_train,sin_train_9,424 2268 624 2321,0.964,automatic
+train,image_972.png,sinfund_train,sin_train_9,701 1068 1001 1149,0.957,automatic
+train,image_973.png,sinfund_train,sin_train_9,711 1312 1237 1383,0.947,automatic
+train,image_974.png,sinfund_train,sin_train_9,730 1480 1018 1547,0.938,automatic
+train,image_975.png,web_app,,,0.182,
+train,image_976.png,sinfund_train,sin_train_9,388 2148 688 2210,0.949,automatic
+train,image_977.png,web_app,,,0.201,
+train,image_978.png,web_app,,,0.223,
+train,image_979.png,sinfund_train,sin_train_46,617 1489 758 1541,0.954,automatic
+train,image_980.png,sinfund_train,sin_train_46,709 1555 882 1645,0.940,automatic
+train,image_981.png,sinfund_train,sin_train_46,573 637 977 721,0.940,automatic
+train,image_982.png,sinfund_train,sin_train_46,516 857 1133 928,0.968,automatic
+train,image_984.png,sinfund_train,sin_train_46,576 1683 950 1759,0.919,automatic
+train,image_985.png,sinfund_train,sin_train_46,517 2229 1038 2291,0.920,automatic
+train,image_986.png,sinfund_train,sin_train_46,364 1784 1187 1847,0.983,automatic
+train,image_988.png,sinfund_train,sin_train_20,664 1608 1124 1647,0.954,automatic
+train,image_1002.png,sinfund_train,sin_train_20,265 987 935 1039,0.901,automatic
+train,image_1003.png,sinfund_train,sin_train_20,314 1106 758 1156,0.863,automatic
+train,image_1004.png,sinfund_train,sin_train_20,652 1159 1131 1193,0.963,automatic
+train,image_1005.png,sinfund_train,sin_train_20,811 1347 1672 1410,0.981,automatic
+train,image_1006.png,sinfund_train,sin_train_20,398 1565 829 1607,0.911,automatic
+train,image_1007.png,sinfund_train,sin_train_20,578 1841 957 1897,0.887,automatic
+train,image_1009.png,sinfund_train,sin_train_20,674 2017 1016 2072,0.960,automatic
+train,image_1010.png,sinfund_train,sin_train_20,457 2226 957 2285,0.967,automatic
+train,image_1011.png,sinfund_train,sin_train_3,623 1494 757 1560,0.924,automatic
+train,image_1012.png,sinfund_train,sin_train_3,442 1620 509 1643,0.925,automatic
+train,image_1013.png,sinfund_train,sin_train_3,1002 1184 1145 1235,0.912,automatic
+train,image_1014.png,sinfund_train,sin_train_3,1127 2027 1252 2126,0.964,automatic
+train,image_1015.png,web_app,,,0.236,
+train,image_1016.png,sinfund_train,sin_train_3,683 1027 919 1095,0.870,automatic
+train,image_1017.png,sinfund_train,sin_train_3,440 719 844 774,0.974,automatic
+train,image_1018.png,sinfund_train,sin_train_3,660 1089 1297 1176,0.980,automatic
+train,image_1019.png,sinfund_train,sin_train_3,916 1263 1209 1321,0.976,automatic
+train,image_1020.png,sinfund_train,sin_train_72,525 1358 714 1431,0.966,automatic
+train,image_1021.png,sinfund_train,sin_train_72,261 1941 355 2005,0.918,automatic
+train,image_1022.png,sinfund_train,sin_train_72,771 1740 880 1830,0.967,automatic
+train,image_1023.png,sinfund_train,sin_train_72,798 1932 943 1997,0.915,automatic
+train,image_1024.png,sinfund_train,sin_train_72,1242 1685 1317 1745,0.953,automatic
+train,image_1025.png,sinfund_train,sin_train_72,472 1086 1243 1186,0.793,automatic
+train,image_1028.png,sinfund_train,sin_train_72,575 1475 884 1557,0.975,automatic
+train,image_1029.png,sinfund_train,sin_train_78,495 744 1089 801,0.955,automatic
+train,image_1030.png,sinfund_train,sin_train_78,843 1284 918 1347,0.876,automatic
+train,image_1031.png,sinfund_train,sin_train_78,637 1024 721 1071,0.815,automatic
+train,image_1032.png,sinfund_train,sin_train_78,523 959 706 1021,0.892,automatic
+train,image_1033.png,sinfund_train,sin_train_78,553 866 759 918,0.891,automatic
+train,image_1035.png,web_app,,,,
+train,image_1036.png,web_app,,,,
+train,image_1037.png,web_app,,,0.201,
+train,image_1038.png,web_app,,,,
+train,image_1040.png,web_app,,,,
+train,image_1041.png,web_app,,,,
+train,image_1042.png,web_app,,,,
+train,image_1044.png,web_app,,,0.226,
+train,image_1046.png,web_app,,,,
+train,image_1047.png,web_app,,,,
+train,image_1049.png,web_app,,,,
+train,image_1050.png,web_app,,,0.129,
+train,image_1053.png,web_app,,,,
+train,image_1054.png,web_app,,,,
+train,image_1055.png,web_app,,,,
+train,image_1057.png,web_app,,,,
+train,image_1058.png,web_app,,,0.288,
+train,image_1060.png,web_app,,,,
+train,image_1061.png,web_app,,,0.126,
+train,image_1063.png,web_app,,,0.296,
+train,image_1064.png,web_app,,,,
+train,image_1065.png,web_app,,,,
+train,image_1066.png,web_app,,,,
+train,image_1067.png,web_app,,,,
+train,image_1069.png,web_app,,,,
+train,image_1070.png,web_app,,,,
+train,image_1071.png,web_app,,,,
+train,image_1072.png,web_app,,,,
+train,image_1073.png,web_app,,,,
+train,image_1075.png,web_app,,,,
+train,image_1076.png,web_app,,,0.320,
+train,image_1078.png,web_app,,,,
+train,image_1080.png,web_app,,,,
+train,image_1081.png,web_app,,,,
+train,image_1082.png,web_app,,,0.122,
+train,image_1083.png,web_app,,,,
+train,image_1084.png,web_app,,,,
+train,image_1085.png,web_app,,,,
+train,image_1087.png,web_app,,,,
+train,image_1089.png,web_app,,,,
+train,image_1090.png,web_app,,,,
+train,image_1091.png,web_app,,,,
+train,image_1092.png,web_app,,,,
+train,image_1093.png,web_app,,,,
+train,image_1094.png,web_app,,,,
+train,image_1095.png,web_app,,,,
+train,image_1096.png,web_app,,,,
+train,image_1097.png,web_app,,,,
+train,image_1098.png,web_app,,,,
+train,image_1099.png,web_app,,,,
+train,image_1100.png,web_app,,,,
+train,image_1101.png,web_app,,,,
+train,image_1102.png,web_app,,,,
+train,image_1103.png,web_app,,,,
+train,image_1104.png,web_app,,,,
+train,image_1105.png,web_app,,,,
+train,image_1106.png,web_app,,,,
+train,image_1107.png,web_app,,,,
+train,image_1108.png,web_app,,,,
+train,image_1109.png,web_app,,,,
+train,image_1110.png,web_app,,,,
+train,image_1111.png,web_app,,,,
+train,image_1112.png,web_app,,,,
+train,image_1114.png,web_app,,,,
+train,image_1115.png,web_app,,,,
+train,image_1117.png,web_app,,,,
+train,image_1118.png,web_app,,,,
+train,image_1119.png,web_app,,,,
+train,image_1120.png,web_app,,,,
+train,image_1122.png,web_app,,,,
+train,image_1123.png,web_app,,,0.042,
+train,image_1125.png,web_app,,,,
+train,image_1126.png,web_app,,,,
+train,image_1127.png,web_app,,,,
+train,image_1128.png,web_app,,,,
+train,image_1130.png,web_app,,,,
+train,image_1131.png,web_app,,,,
+train,image_1132.png,web_app,,,,
+train,image_1133.png,web_app,,,,
+train,image_1134.png,web_app,,,,
+train,image_1135.png,web_app,,,,
+train,image_1137.png,web_app,,,,
+train,image_1139.png,web_app,,,,
+train,image_1140.png,web_app,,,,
+train,image_1141.png,web_app,,,,
+train,image_1143.png,web_app,,,,
+train,image_1144.png,web_app,,,,
+train,image_1145.png,web_app,,,,
+train,image_1146.png,web_app,,,,
+train,image_1148.png,web_app,,,,
+train,image_1149.png,web_app,,,,
+train,image_1150.png,web_app,,,,
+train,image_1151.png,web_app,,,,
+train,image_1152.png,web_app,,,,
+train,image_1153.png,web_app,,,,
+train,image_1154.png,web_app,,,,
+train,image_1155.png,web_app,,,,
+train,image_1156.png,web_app,,,,
+train,image_1157.png,web_app,,,,
+train,image_1158.png,web_app,,,,
+train,image_1159.png,web_app,,,,
+train,image_1160.png,web_app,,,,
+train,image_1161.png,web_app,,,,
+train,image_1162.png,web_app,,,,
+train,image_1163.png,web_app,,,,
+train,image_1164.png,web_app,,,,
+train,image_1166.png,web_app,,,,
+train,image_1167.png,web_app,,,,
+train,image_1168.png,web_app,,,,
+train,image_1169.png,web_app,,,,
+train,image_1170.png,web_app,,,,
+train,image_1171.png,web_app,,,,
+train,image_1172.png,web_app,,,,
+train,image_1173.png,web_app,,,,
+train,image_1174.png,web_app,,,,
+train,image_1175.png,web_app,,,,
+train,image_1176.png,web_app,,,,
+train,image_1178.png,web_app,,,,
+train,image_1180.png,web_app,,,,
+train,image_1181.png,web_app,,,,
+train,image_1182.png,web_app,,,,
+train,image_1183.png,web_app,,,,
+train,image_1184.png,web_app,,,,
+train,image_1185.png,web_app,,,,
+train,image_1187.png,web_app,,,,
+train,image_1188.png,web_app,,,,
+train,image_1190.png,web_app,,,,
+train,image_1191.png,web_app,,,,
+train,image_1192.png,web_app,,,,
+train,image_1195.png,web_app,,,,
+train,image_1196.png,web_app,,,,
+train,image_1198.png,web_app,,,,
+train,image_1199.png,web_app,,,,
+train,image_1200.png,web_app,,,,
+train,image_1201.png,web_app,,,,
+train,image_1202.png,web_app,,,,
+train,image_1203.png,web_app,,,,
+train,image_1204.png,web_app,,,,
+train,image_1205.png,web_app,,,,
+train,image_1206.png,web_app,,,,
+train,image_1208.png,web_app,,,,
+train,image_1209.png,web_app,,,,
+train,image_1211.png,web_app,,,,
+train,image_1212.png,web_app,,,,
+train,image_1213.png,web_app,,,,
+train,image_1214.png,web_app,,,,
+train,image_1215.png,web_app,,,,
+train,image_1216.png,web_app,,,,
+train,image_1217.png,web_app,,,,
+train,image_1218.png,web_app,,,,
+train,image_1219.png,web_app,,,,
+train,image_1220.png,web_app,,,,
+train,image_1221.png,web_app,,,,
+train,image_1222.png,web_app,,,,
+train,image_1224.png,web_app,,,,
+train,image_1225.png,web_app,,,,
+train,image_1226.png,web_app,,,,
+train,image_1227.png,web_app,,,,
+train,image_1228.png,web_app,,,,
+train,image_1229.png,web_app,,,,
+train,image_1230.png,web_app,,,,
+train,image_1232.png,web_app,,,,
+train,image_1233.png,web_app,,,,
+train,image_1234.png,web_app,,,,
+train,image_1235.png,web_app,,,,
+train,image_1236.png,web_app,,,,
+train,image_1237.png,web_app,,,,
+train,image_1238.png,web_app,,,,
+train,image_1239.png,web_app,,,,
+train,image_1240.png,web_app,,,,
+train,image_1241.png,web_app,,,,
+train,image_1242.png,web_app,,,,
+train,image_1243.png,web_app,,,,
+train,image_1247.png,web_app,,,,
+train,image_1248.png,web_app,,,,
+train,image_1249.png,web_app,,,,
+train,image_1250.png,web_app,,,,
+train,image_1251.png,web_app,,,,
+train,image_1253.png,web_app,,,,
+train,image_1254.png,web_app,,,,
+train,image_1255.png,web_app,,,,
+train,image_1256.png,web_app,,,,
+train,image_1257.png,web_app,,,,
